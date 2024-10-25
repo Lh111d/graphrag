@@ -1,3 +1,5 @@
 flask==3.0.3
 graphrag_api==0.3.1
+graphrag==0.3.1
 neo4j==5.25.0
+future==1.0.0
