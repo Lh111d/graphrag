@@ -1,0 +1,3 @@
+flask==3.0.3
+graphrag_api==0.3.1
+neo4j==5.25.0

@@ -1,0 +1,1043 @@
+名称: (valid)API设置执行时间
+描述: API设置执行时间, 单位是秒
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:91a9f1ad-72cd-436e-8454-2915a687d5ea,flow
+ID: cdd3f4b0-e5f0-412e-86b1-14149bc40aee.
+
+名称: Hunyuan Image Generation
+描述: 使用第三方混元hunyuan大模型生成图片的文生图API
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/V1VzwHPuhixb0Dk2scnulayjsvh
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:673e20b4-dece-4bb2-9c68-46d42b0761a3,flow
+ID: 49520276-a887-4b60-877e-1e8ae22c5ad6.
+
+名称: 需求挖掘-仅挖掘
+描述: 选择挖掘方式，挖掘需求
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:fa942df4-c4ef-4289-bf64-f0e5b4bc060e,flow
+ID: d0b556ad-d880-4c5c-90ca-8423524b80cf.
+
+名称: split task
+描述: split task格式化输出
+
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:48bfdab5-9f0b-46c5-a396-9e306559b794,flow, self-hosting
+ID: b925f3a0-60b0-4648-a4cc-83ed918791e0.
+
+名称: 代码获取sop
+描述: 内外部获取代码
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/V4Lcw9d8IiOHkRkhRT0urg5Zssd
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:292af5e4-7ae6-4ca2-9b6c-bb4bd59eb533,flow, self-hosting
+ID: fb058134-0c45-42bd-bc56-aaf3fd4c6754.
+
+名称: 图片切成圆角背景留透明工具
+描述: 图片切成圆角背景留透明的工具
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/Gigow1GbLiyuDDkoJZsuMeYAsrf
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:d2db33f8-1699-43c7-b468-bf975514eeda,flow
+ID: e7040b40-c69e-4c0c-b71b-bd9800290a52.
+
+名称: 学习报告
+描述: 根据需求任务生成一份学习报告
+
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:8dae01d7-4179-40a2-907a-e09636361ee3,flow, self-hosting
+ID: 4a9518a3-6648-4fe0-942c-f4b3575f63bd.
+
+名称: 财报信息获取
+描述: 根据公司获取财报信息和财报pdf
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/Jt3nwC1fhiNkR5kmFwouoHgds8v
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:29743fea-0518-4c78-954d-4a138eac8a6d,flow, self-hosting
+ID: 503be46f-464a-4ee3-bbfb-31bc5801f56d.
+
+名称: AI ENG 代码生成 V3
+描述: 主要提供代码生成能力的AI ENG
+生成的语言类型包括python和C#
+目前Python部分能力主要是提供给ASG使用，C#部分能力主要是提供给unity工程使用
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/JJIWw8QifivI77kbg5RuzKIFsyR
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:000e70db-1b19-451e-a67b-e523b28176a3,flow, self-hosting
+ID: 9340103f-0ca8-485a-87e4-2500c33fad3d.
+
+名称: 三消 一体化串联
+描述: 用于测试三消游戏生成的串联测试API，再后续补充SOP和素材后会变为正式版
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:c7680a77-c536-42b1-af2b-d16ddb284155,flow, self-hosting
+ID: 5fc4c68b-3735-40bb-a2df-6e8efcf6f924.
+
+名称: AI ENG 代码生成 V3.1
+描述: 这个版本的代码生成的语言类型是SQL；
+目前sql部分能力是提供给素材库操作使用
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/HaYNwIASSioOm2kHct7ucPZysob
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:ffa015e5-c2c8-4908-be75-e56318c598ce,flow
+ID: e62c1d06-29e5-435c-892f-9d12bbee6acd.
+
+名称: AI ENG 节点生成 ASP使用版 V2
+描述: AIENG 生成ASP节点代码并上传文件到数据库；
+生成AGIOne节点，节点代码生成，节点生成
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/YZX7wD2vZiiIKgkLvXFuEMMUsXd?open_in_browser=true
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:f2546a4c-bd74-4044-88d3-43dce5392d3c,flow
+ID: 3882dca5-ce83-4ecc-a34b-675de09b9648.
+
+名称: 任务拆分v2
+描述: 适应长短文本的任务拆分
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:82008bef-4376-4bd6-b62e-8b8138a91576,flow
+ID: cf2f842e-6650-41e8-85cd-0081ae1c9c6d.
+
+名称: 需求: 请提供一个智能合约的生成和部署的AI助手
+描述: 一个智能合约的生成和部署的AI助手
+文档链接: https://flow.dev.service.hyletic.com/api/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:524bf599-1abb-4cfa-8d65-715ce17f71a4,flow
+ID: 122d60ed-0c19-402e-854d-6135ac8b548d.
+
+名称: Gen Image and Style Change API
+描述: This API performs Image Generator and style transfer on images using style images.
+文档链接: None
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: gen_image and style_change:895c000b-24b6-4a96-b0eb-c180d5bb9d96,gen_image,style transfer, image processing, controlnet
+ID: 892f1ae0-16fb-4e2d-8ceb-b61eb21a2f09.
+
+名称: docx知识获取
+描述: 从doc文档中提取信息
+
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:44876275-4e63-4194-abbc-7b4092683718,flow, self-hosting
+ID: 32d392f1-0bf4-4fb7-8f16-f9187e27c0ab.
+
+名称: URL-Based Twitter Content Generator
+描述: Title: URL-Based Twitter Content Generator
+    Desc: Develop a system that automatically scrape content from a provided URL and generates textual content suitable for a tweet. The system should not include a user interface and must focus on core functionality. The input is a specified URL, and the output is text content formatted for posting on Twitter, with no requirement to actually post the tweet.
+    Expect Input: The expected input is a single URL string, formatted according to standard URL syntax (e.g., 'https://www.jiqizhixin.com/articles/2024-04-22-9').
+    Expect Output: The expected output is a string of text content. The text should summarize or highlight key points from the extracted URL content, ready to be tweeted.
+    Ideas: None.
+    Reference: None
+    Test Case: 1. Scrape from https://www.jiqizhixin.com/articles/2024-04-22-9, and generate a tweet-ready text. 
+    Remark: Ensuring the generated tweet text adheres to Twitter's character limit.
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:15d6b082-9048-4c06-ae35-d26b16d174b1,flow, self-hosting
+ID: 6b10bc23-41d3-476c-af2b-af45433e8d94.
+
+名称: Random Food Dish
+描述: Get a random picture of a food dish from a random category.
+文档链接: https://github.com/surhud004/Foodish#readme
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: food:80031d6b-b2da-42c8-8f70-654a94d1a6e7,random, food, pictures
+ID: 3a856bcc-281c-4199-bf2e-2217ad45f1b5.
+
+名称: ResearchGPT
+描述: Title: ResearchGPT
+Desc: Generate a thorough report on a specific subject.
+Test Case: Compile a comprehensive report on Global Warming.
+Ideas: Touching on its causes, effects, and mitigation strategies. Include recent research findings and statistics.
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:bdd6a3f7-8511-4bda-bf98-7ac7375a46a0,flow, self-hosting
+ID: 3a1c6365-2976-4e96-89ee-731c27d355be.
+
+名称: 根据推文URL或推文ID，获取推文信息
+描述: 根据推文URL或推文ID，获取推文信息
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/BChVwtIiliTaPWkTiqYupoShsWc
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: twitter:e16dd64c-a3d4-42c0-913d-3b97c3b30bb8,twitter, tweet_info
+ID: 2dc21de2-44fc-40ec-9077-860ef49949a3.
+
+名称: 获取指定用户的关注者（Followers）
+描述: 获取指定用户的关注者（Followers）
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/BChVwtIiliTaPWkTiqYupoShsWc
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: twitter:40bbf176-22a7-4d30-822b-354730e44dbf,twitter, followers
+ID: 96e9e4b4-c7e0-45d1-9d61-07469273465c.
+
+名称: 获取指定用户的媒体信息
+描述: 获取指定用户的媒体信息
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/BChVwtIiliTaPWkTiqYupoShsWc
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: twitter:d9da9a84-3bdb-415b-9fc6-72472b90dbcb,twitter
+ID: 2e43107e-493b-44df-a1ac-08d82d3b29a4.
+
+名称: JSON Profanity Filter
+描述: PurgoMalum is a simple, free, RESTful web service for filtering and removing content of profanity, obscenity and other unwanted text.
+文档链接: https://www.purgomalum.com/?ref=public_apis
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: profanity_filter:a0dd5fc6-c719-4323-b79b-d551b94da245,json, filter, profanity
+ID: c0eccfb4-6a67-4e1e-8ab6-8690aec8835e.
+
+名称: 三消Step3
+描述: Interactive Language Weaving.
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:072f5842-659f-4026-b6c4-4512beb19d45,flow
+ID: fbea10ac-8c92-4999-bf90-d29862980e0d.
+
+名称: Twitter: Get Tweet Info by Tweet ID
+描述: 根据推文ID，获取推文信息
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/BChVwtIiliTaPWkTiqYupoShsWc
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: twitter:716616ba-37ce-41ee-9e35-acd2f5aa208a,twitter
+ID: 677366f7-9703-421d-ab0a-a67655e6ad64.
+
+名称: Firecrawl Scrape
+描述: Scrape the content of a given URL
+文档链接: https://docs.firecrawl.dev/api-reference/endpoint/scrape
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: scrape:22a996c4-0655-45c5-ac97-842581acb3a7,scrape, content, HTML
+ID: c9ca9d89-19e3-4b9e-8216-b58e705d5541.
+
+名称: Exa Retrieve Document Contents
+描述: Retrieve contents of documents based on a list of document IDs.
+文档链接: https://docs.exa.ai/reference/findsimilar
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: documents:066bfc6d-9fd8-4785-8f55-2cccab4b38b6,contents, documents, retrieval
+ID: 08fa7f86-7120-41ab-b7d6-6e824a7823e0.
+
+名称: 三消step5
+描述: Building Linguistic Labyrinths.
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:fd52b5ee-39dc-47be-9b98-90dd8458793e,flow
+ID: fba01791-e665-4432-8808-d6e814d7616b.
+
+名称: Search API
+描述: Search for data based on a query.
+文档链接: https://docs.tavily.com/docs/rest-api/api-reference
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: search:e94cef9e-90bd-4eba-9cea-104d983940bf,search, query, LLM
+ID: aac12b88-21d3-4dec-af3e-6b6cfaaa8b2f.
+
+名称: Text to 3D Model
+描述: 根据描述生成3d文件（异步生成）
+文档链接: https://product.agiplusone.ai/api/external/text_to_3d_model
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: 3d_modeling:2b0715cb-4d41-4e49-a64b-cd216f3738c8,3d, ai, modeling, async
+ID: 9763424c-f94f-4e01-acee-3113fa5dc8f1.
+
+名称: 根据推特用户名获取用户发的推特(twitter)
+描述: 根据推特用户名获取用户发的推特(twitter)
+文档链接: https://aigc.mindcoord.com/api/tw/v1/scraper/tweets
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: twitter:21dd5527-f0f6-4df7-bf8e-6527b64dff92,twitter
+ID: f5c6e7d2-d649-4352-b799-a50e49b6ea04.
+
+名称: Firecrawl Crawl
+描述: Initiates a web crawl starting from the provided base URL.
+文档链接: https://docs.firecrawl.dev/api-reference/endpoint/crawl
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: web scraping:eff14907-96e8-4ee4-9a36-12fdc86df318,crawl,web scraping
+ID: bea7e67e-f7e1-482a-b9f7-a9094962e59d.
+
+名称: MG Mongodb demand Task API
+描述: This API handles the MG task including get data about model fine-tuning, and evaluation.
+文档链接: None
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: mg:edeb526d-a5b8-41d2-bdb1-f68d50ee3383,data collect
+ID: 1502f110-9f7c-4c31-a335-8b0dcb98c69b.
+
+名称: 获取指定用户的关注者（Following）
+描述: 获取指定用户的关注者（Following）
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/BChVwtIiliTaPWkTiqYupoShsWc
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: twitter:88540dd4-e0fb-4665-97a8-ddf08c04894a,twitter, following
+ID: 6f57ad87-0cd7-455a-aecf-6006fa78eb38.
+
+名称: 三消Step2
+描述: Innovation in Interaction with AGIOne.
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:26a5adec-bee9-46b6-9852-486b14a3ef15,flow
+ID: 1c5db539-1960-41ae-a1c1-8fde8413478b.
+
+名称: apyhub--AI Text Summarization API
+描述: This API generates summaries of text and web pages using AI and Natural Language Processing. The summaries can have customizable lengths and can be translated into any supported language.
+文档链接: https://apyhub.com/utility/ai-summarize?ref=public_apis#endpoints
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: summarize:e085b394-0805-41ab-a7a3-4b75e887b9b4,AI, summarize, text summarization, NLP
+ID: b2e73277-f3f4-4710-943f-1252e917081a.
+
+名称: 获取指定用户的推文及推文回复
+描述: 获取指定用户的推文及推文回复
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/BChVwtIiliTaPWkTiqYupoShsWc
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: twitter:c09791a0-d019-4134-b90b-903fb2cce8eb,twitter, tweets, replies
+ID: 9bdfda8f-36d5-47b7-980c-be7d945aefee.
+
+名称: Search - Youtube
+描述: 根据输入搜索youtube视频信息
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:713efd41-d47f-47df-9760-925e1de3a291,flow, self-hosting
+ID: ed075e8e-900d-4682-8ef4-f5a33b6eac6f.
+
+名称: 三消step4
+描述: Building Linguistic Labyrinths.
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:093a6e7d-3acd-410c-9698-ad5ceab3ee2a,flow
+ID: 79a6fd01-c85e-41de-9ece-22d3681d1a2d.
+
+名称: Firecrawl Get Crawl Status
+描述: This endpoint retrieves the status of a crawl job. If the job is not completed, the response includes content within partial_data. Once the job is completed, the content is available under data.
+文档链接: https://docs.firecrawl.dev/api-reference/endpoint/status
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: crawl:8fae0776-37ba-47ad-83f1-e0bb5400992e,status, crawl
+ID: 20a51804-d817-4cde-bc2f-a97254e0f492.
+
+名称: Twitter: Get Tweet Retweeters
+描述: 根据推文URL或推文ID，获取推文的转发数据（Retweet）
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/BChVwtIiliTaPWkTiqYupoShsWc
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: twitter:58288cee-6503-4dec-8971-bf53577138a8,twitter, retweeters
+ID: 0ec8b589-750d-4d4c-9457-e97423ac3e00.
+
+名称: Hunyuan gen image official API
+描述: This API performs secondary encapsulation for mixed-element image generation.
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/ZvP5wrDjiimHkbkXgVfuapu3sqc
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: hunyuan gen image:d17dc7f4-2b94-4996-ae35-36a04a816289,hunyuan api gen_image
+ID: 9dfa18f5-a731-4f4c-8649-60d8fa62fe1e.
+
+名称: News Letter
+描述: newsletter订阅指定的topic或者关键词，并发送到指定邮箱
+文档链接: https://product.agiplusone.ai/api/external/news_letter
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: news:662a7203-2a02-4361-851d-b8ec811977e5,newsletter, news generation, email
+ID: d68dc956-f2d4-4ef5-85f0-fe06e7e9965f.
+
+名称: AI Game用户引导模板Flow
+描述: 通过强引导去帮助用户输入自己想要生成的内容的描述，根据输入类型不同，可以引导用户输入不同类型的描述
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/UW77wV6iOiVWlqkzXAluBLw6srb
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:a75e5db3-4fd9-4137-82c5-174c6da3b100,flow
+ID: 8b0353e9-4416-456a-badc-f2cc97601726.
+
+名称: Search - Google
+描述: 根据用户输入搜索谷歌
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:b817eee9-ae08-4da7-a887-df40207cdd39,flow, self-hosting, bad
+ID: 47a672f2-2b35-46e9-9b97-b30f7580cd76.
+
+名称: 创建代码片段
+描述: 创建一个新的代码片段
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/PaJXwkz8Ui9Y2IkqL8Su0XKVseb?open_in_browser=true
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: 代码管理:f49a0ff7-5f63-44ea-a4ca-4b06d4a67d0e,代码管理
+ID: ebaad939-1f67-43cb-b493-059b70fc8b3c.
+
+名称: Get Post of Subreddit
+描述: 根据用户指定的subreddit获取post
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:ee2f7168-000a-403f-a8a2-a3a04620b22c,flow, self-hosting
+ID: bd668e1d-dd98-4bdc-9d42-8fa728e0fb2d.
+
+名称: Search - Wikipedia
+描述: 根据输入搜索维基百科
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:272dc5e9-ff52-44fa-b0d4-7f4fda699d2e,flow, self-hosting
+ID: 412ef6d0-eec6-447a-bf36-a6953a4950b0.
+
+名称: 短期三消游戏Json生成step
+描述: Language Chainlink Master.
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:15ee2fa0-4e26-49d2-be67-aa67c4da368c,flow
+ID: eccd43f8-75ab-4a65-a67d-bcb7d7828058.
+
+名称: Search - DuckDuckGo
+描述: 根据用户输入搜索DuckDuckGo
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:e4e9176f-df2c-4a12-acb5-48765db69f72,flow, self-hosting
+ID: 59e5ecb6-77ea-4d4d-ab36-f0225d457cc3.
+
+名称: Tavily Search API
+描述: Search for data based on a query.
+文档链接: https://docs.tavily.com/docs/tavily-api/rest_api
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: search:f4e27249-f82c-4c89-8c66-f6c3765d2720,search, query, AI
+ID: bd6514cc-9cfc-4b76-8994-35f91511b368.
+
+名称: Twitter: Search Tweets by Keyword
+描述: 根据关键字，在推特上搜索相关推文
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/BChVwtIiliTaPWkTiqYupoShsWc
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: twitter:70ce7e55-97bf-4eef-a0a8-0e799e8394bf,twitter, search
+ID: 927632f1-c005-4d02-acb5-9d4a515f3bba.
+
+名称: Get All Emojis
+描述: Fetch an array of all available emojis, can be filtered by category or group.
+文档链接: https://github.com/cheatsnake/emojihub
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: emoji:7fc7fd17-eaab-46b7-b619-0c4ed71b4a15,emoji, all, free, public-api
+ID: 8b3c45c8-af3c-4473-8bb8-e83ce253cb5b.
+
+名称: Twitter: Get Tweets by User
+描述: This API retrieves tweets from a specified user based on user ID or username.
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/BChVwtIiliTaPWkTiqYupoShsWc
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: twitter:4d3ab131-ed1c-410d-a916-554f1e3b7a2a,twitter
+ID: f8475ce7-67d9-473d-b987-2dc05e7979b0.
+
+名称: Get Random Emoji from Food and Drink Category
+描述: Fetch a random emoji from the food and drink category.
+文档链接: https://github.com/cheatsnake/emojihub
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: emoji:60f75643-8c0b-4d42-8f26-1e489238a1a0,emoji, random, food-and-drink, free, public-api
+ID: 32d48a72-e1f3-4a2d-890b-81a46c15b845.
+
+名称: Return Requesting IP
+描述: This endpoint returns the requesters IP. You can specify a custom callback for the JSONP endpoint. You cannot lookup multiple IPs on this endpoint.
+文档链接: https://www.geojs.io/docs/v1/endpoints/ip/
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: IP:a9301353-9373-4241-9ce4-94aecd6c1cbf,ip, geoip, network
+ID: f00699b3-93b5-442c-99b3-5b259d2be6b7.
+
+名称: Fine-Tune LLM Model
+描述: This API initiates the fine-tuning process for a specified LLM model using a given dataset and configuration.
+文档链接: None
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: llm, fine-tuning:6c808fef-7ff9-454e-8ed3-d10f01c7f063,llm, fine-tuning
+ID: 2404fb50-60fe-4c8c-9764-b08cc8ec48ef.
+
+名称: Get an array of all emojis
+描述: Provides an array of all emojis in the database.
+文档链接: https://github.com/cheatsnake/emojihub/blob/master
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: emoji:8a8d0d87-2e83-4ee3-82fb-960c6d88305d,all, emojis
+ID: 1ec9dc3d-41d5-47de-8020-5bf05bb08222.
+
+名称: Get Random Emoji from Face Positive Group
+描述: Fetch a random emoji from the face positive group.
+文档链接: https://github.com/cheatsnake/emojihub
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: emoji:ec9031a5-2c1b-4a71-b03e-9c14647d4f57,emoji, random, face-positive, free, public-api
+ID: 503da140-82fa-4fa7-a2a2-21999b63cd84.
+
+名称: Get All Emojis from Travel and Places Category
+描述: Fetch all emojis from the travel and places category.
+文档链接: https://github.com/cheatsnake/emojihub
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: emoji:8f133347-d9c1-4592-9958-510e23542ccb,emoji, all, travel-and-places, free, public-api
+ID: 0e4efc52-b4f9-4868-86fb-f08543b846df.
+
+名称: Get All Emojis from Animal Bird Group
+描述: Fetch all emojis from the animal bird group.
+文档链接: https://github.com/cheatsnake/emojihub
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: emoji:56323aae-491f-4514-8e69-4fe6a355dd2f,emoji, all, animal-bird, free, public-api
+ID: 68a04db4-2a25-46d5-a94a-146a39da06cb.
+
+名称: Get Today's Useless Fact
+描述: Retrieve today's useless fact
+文档链接: https://uselessfacts.jsph.pl/
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: uselessfacts:125b3eea-5cf1-4134-8200-7180f16c1f71,today, useless, fact
+ID: 7e6465aa-e1b1-4e44-b44e-7d83b65ee70f.
+
+名称: Apple_app_search
+描述: Apple app search review
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:e4ecad32-b2f4-42ac-b35c-4947e0c5e3d1,flow, self-hosting
+ID: 09ac3c06-1f00-4a9a-ad59-a505119f5027.
+
+名称: Apple_app_scrapy
+描述: Apple_app_scrapy
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:13b98515-287c-4516-a4ed-0da58d2fc435,flow, self-hosting
+ID: ef811636-6dcf-4c69-ae80-2a4dedef9e98.
+
+名称: AI ENG 代码参考搜索调用代码模块
+描述: 调用各个获取代码生成参考结果的接口
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:ce929310-e7ad-4b7d-ae14-cf47edfa93da,flow, self-hosting
+ID: 20a4831c-80c8-409f-8505-fb52e4b33175.
+
+名称: Meme Generator
+描述: Generates memes
+文档链接: https://apimeme.com/
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: 娱乐, meme:560b984f-9d0b-470e-95c0-f4eb3fa4429c,meme,图片生成
+ID: ba42a8f9-7861-4cb6-8882-489de21df7f2.
+
+名称: 执行Python代码
+描述: 执行Python代码, 并返回执行结果
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:c731a4e2-f8d9-4c96-9e41-3b01f87c9153,flow, self-hosting
+ID: 11136fea-2c22-4322-884b-268efc801cf0.
+
+名称: General Scraper lv1
+描述: 通用爬取lv1。输入多条链接，并爬取每个链接的标题和文字。可以设置爬取方法，也可以自动选择可用的爬取方法。
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: lin
+技术栈: ai system platform
+其他说明: flow_uuid:15796405-9ac0-40f0-99ef-c72f1bd3d354
+ID: 96c3b8af-470f-4586-93e1-62e75b7ffdec.
+
+名称: RPG 一体化串联
+描述: 用于测试RPG游戏生成的串联测试API，再后续补充SOP和素材后会变为正式版
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:d3aad0f1-3003-48dd-884e-d832f89cea6b,flow, self-hosting
+ID: debbf804-44be-4f92-846b-912b1dadfed4.
+
+名称: Get Arxiv Paper By Category
+描述: 根据所选分类，搜索arxiv网站该分类下的最新论文
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:e4a15705-aef9-4f3d-b9eb-2b4b086c22f1,flow, self-hosting
+ID: a10765d0-c3ac-49fd-82ef-b3bd5f261d8c.
+
+名称: 基于用户需求选取API, 并且执行
+描述: 基于用户需求选取API, 并且执行
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:3555964b-0570-444f-8a43-b30fbd331500,flow, self-hosting, bad
+ID: e5015db1-20d9-425a-adc4-fc249fff4208.
+
+名称: 根据需求执行对应的API
+描述: 根据需求执行对应的API
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:4992384c-a294-4832-ba47-7fe759adb757,flow, self-hosting
+ID: 14b5c3f7-8e50-4d89-aed9-ffffa79dc1e7.
+
+名称: 卡牌 一体化串联
+描述: 用于测试卡牌游戏生成的串联测试API，再后续补充SOP和素材后会变为正式版
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:4d084b44-00fa-4d5d-bedd-a4bf60d72bfb,flow
+ID: 876fbbb9-f4bd-4875-b307-0f16845d5659.
+
+名称: 电影查询
+描述: 查询近日电影推荐
+
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:6005cea6-4210-4a8c-9bc5-5bde60638fdf,flow, self-hosting
+ID: 576cf93e-d537-409c-9382-93c1b73fee90.
+
+名称: (valid)API执行延时-group
+描述: 设定的API延时时间
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:99199f82-9b01-445c-93eb-f05e408e3ad0,flow
+ID: c82e1d89-a391-4329-8e04-cc0dab34d3b6.
+
+名称: 财报获取[临时]
+描述: 根据公司获取财报信息和财报pdf
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:63a0ee3c-e2b0-485a-a9a9-6a020e692ab4,flow, self-hosting
+ID: 7d37ef29-d6bd-4bef-855d-cd93693d08de.
+
+名称: ChatDemandForGame
+描述: 提供获知和提示用户输入自己想要生成的内容的能力，根据输入类型不同，可以引导用户输入不同类型的描述
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/AhfFwZdFLiE554kiLYaukA4Bsne?open_in_browser=true
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:da1db650-c034-4b5f-af67-3ae0d81a9ae2,flow, self-hosting
+ID: 128d530b-4a01-4338-852c-6327b3d11a68.
+
+名称: PDF知识获取
+描述: 根据pdf链接获取pdf的内容
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:ed4040fb-1b4a-403b-9537-25e29745b794,flow
+ID: 3544d896-e6ab-4dfb-a4a4-328ef378c089.
+
+名称: 决策报告
+描述: 根据需求生成一份决策报告，用来辅助决策
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:45226f97-2411-41b5-8442-fe543751f4e9,flow, self-hosting
+ID: 6d6020f6-74f9-4dee-8b0a-df2f32a7e26f.
+
+名称: 创新
+描述: 利用各种创新工具和方法，搭载LLM进行创新
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:e2f12b57-a62a-4cd5-8e01-2d49274ec70d,flow, self-hosting
+ID: b5f1ab3b-4dfe-4aae-b491-16791c70126f.
+
+名称: 人人都是产品经理
+描述: 人人都是产品经理搜索
+
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:b03d1c7c-f64a-40a3-a02e-f755ed027adc,flow, self-hosting
+ID: eb0fd20e-ebbc-4cab-844e-c9a5a8e49d6e.
+
+名称: 需求挖掘v3并行
+描述: 需求挖掘和需求分析并行：根据用户输入、idea（upwork）、人才数据（glassdoor）、和马斯洛需求（news）来挖掘需求，然后进行需求分析分别生成环境分析报告，市场调研报告，竞争分析报告，时机分析报告，行业分析报告。
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:8bf9c837-13bc-44a9-9b07-f4f47d1f8494,flow, self-hosting
+ID: 00ff8535-dfa1-4000-9e26-f45273e02dfc.
+
+名称: AI ENG Debug 模块
+描述: AI ENG Debug 模块
+
+这个模块就是为了检测用户可能需要解决的bug和希望解决的问题，然后将他们整合进输入中，然后交由AI处理生成
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/R7QfwHEhWioypskm2FtuHPAlsEb
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:ba01b606-b20d-4589-8dce-13d457436ee3,flow, self-hosting
+ID: af1e3395-69c9-45c2-9748-87ab1ee6aa92.
+
+名称: 天气预报
+描述: 根据城市名称获取近日天气
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:78dfd2ec-1fa7-495b-a39a-8880096be3f4,flow
+ID: 00c66dbf-2323-4fe7-88c1-50ef7bb288f4.
+
+名称: 图片色调变化工具V1
+描述: 将一张图片变为不同色调的工具V1
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/Lc93wllwriBCOdk3XPUuz6Xjsdd
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:4a9f94dd-2d0e-416f-8224-da0672e1c438,flow
+ID: 0bb14e79-09ed-4b82-9b70-a9f6fd1806e7.
+
+名称: 调研
+描述: 根据外部信息调研
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:10ca8903-3699-41b3-bdae-2ce53f651ae3,flow
+ID: 91af6846-7584-4cac-8f91-04d167d7e6df.
+
+名称: search
+描述: 根据问题自动判断使用哪个搜索引擎搜索
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:c4ce14bd-c103-4039-90ca-b3faf7a1e14b,flow
+ID: 8d666bb5-960f-468b-bd5e-fba15d86de51.
+
+名称: Style Change API
+描述: This API performs style transfer on images using specified parameters.
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/WruQwzHNci4rStkaMD3uotO9sEb
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: style_change:717c1634-8757-46a4-a6e4-3b8b4355bbd4,style transfer, image processing, controlnet
+ID: 20163036-b206-4f61-a313-0bdb1095df83.
+
+名称: 解忧师
+描述: Title: 解忧师
+Desc: 开发一个问题解答系统, 用于排忧解难,忘记烦恼
+Expect Input:   问题
+Expect Output:   问题的答案
+Ideas: 无
+Reference: 无
+Test Case: 无
+Remark: 无
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:4438a52d-f326-4bd4-a9a9-a561d9e1ec63,flow, self-hosting
+ID: 51bf8e21-868f-4637-9872-0307616b27db.
+
+名称: 股票投资助手
+描述: 股票投资助手, 提供投资决策和股票推荐服务
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:a79f491e-6796-4805-90f1-c547f7e2670d,flow, self-hosting
+ID: 078f8d89-9ca6-4227-b0a5-1ea9e250f8e8.
+
+名称: Groq Create chat completion
+描述: Creates a model response for the given chat conversation.
+文档链接: https://console.groq.com/docs/api-reference#chat
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: chat:d8019019-470e-4af1-9a22-44edbe50da87,chat, completion
+ID: c0740475-d87d-4bce-9c84-a0b997a722e3.
+
+名称: Find Similar Links
+描述: Find similar links to the link provided. Optionally get contents.
+文档链接: https://docs.exa.ai/reference/findsimilar
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: search:e62401b1-1832-4b0a-8c19-cb43a5a16b40,similar links, search, content
+ID: 2b0386bd-bc9c-4555-b239-8f625ab6c8b1.
+
+名称: 标题: 基于URL的小红书内容生成器
+描述: 标题: 基于URL的小红书内容生成器
+描述：开发一个系统，自动从提供的URL中抓取内容，并生成适合小红书的文本内容。该系统不应包括用户界面，必须专注于核心功能。输入是指定的URL，输出是格式化为在小红书上发布的文本内容，不需要实际发布文章。
+预期输入：预期输入是单个URL字符串，根据标准URL语法进行格式化（例如，'https://www.jiqizhixin.com/articles/2024-04-22-9').
+预期输出：预期输出是一个文本内容字符串。文本应总结或突出显示提取的URL内容中的关键点，以便在小红书上发布。
+想法：无
+参考：无
+测试用例：1。从中刮取https://www.jiqizhixin.com/articles/2024-04-22-9，并生成一条可用于小红书的文本。
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:21c6bbac-9b02-44b1-bf0b-089dd145c212,flow, self-hosting
+ID: f9c69984-dbae-498d-a0a5-60a5e35bf555.
+
+名称: 搜索arxiv
+描述: 根据字段搜索arxiv，并汇总论文信息
+
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:2ae34f73-19f3-4465-932f-28586840d159,flow, self-hosting
+ID: 043ef24e-712a-45a1-9ace-3d5e7662d9b0.
+
+名称: AI ENG 节点Debug/Improve ASP使用版 V1
+描述: AIENG Debug/Improve  节点代码文件并上传文件到数据库
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/Iyzmw283tiOu4HkHjTMuYVmQstb
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:717b4761-bc08-477e-a6a9-63ad635042b8,flow, self-hosting
+ID: a1a61aa8-f4b1-41a8-861b-fa672d67310c.
+
+名称: 论文知识沉淀v2
+描述: 根据提供的论文链接进行论文知识沉淀
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:f67e57e2-1fed-4b14-b864-21f5b1ddf684,flow
+ID: 6c6266dd-3f69-4e81-89c4-bbcd51065166.
+
+名称: Game Sub Element 模板
+描述: None
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:5b7c9787-ad3a-4131-b408-9a9dee57bc83,flow
+ID: 308e1ed9-6ae2-469b-91de-3b557681e713.
+
+名称: Exa Search
+描述: Perform a search with an Exa prompt-engineered query and retrieve a list of relevant results. Optionally get contents. /search returns a list of links relevant to your query. There are two search types - neural and keyword.
+文档链接: https://docs.exa.ai/reference/search
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: search:8d3ebdc6-f0d1-4d80-8d05-4fbf6160e58f,search, query, neural, keyword
+ID: 2d00522d-1469-4907-a183-40711442ff49.
+
+名称: Voyage Embedding
+描述: Vectorize your data to gear up your AI stack.
+文档链接: https://docs.voyageai.com/reference/embeddings-api
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: embeddings:9f5d9749-33e2-4af6-801e-a7f8aa433815,NLP, embeddings, AI
+ID: 19dd68d5-f146-4c17-9982-7f4b75d25470.
+
+名称: Twitter: Get User Media Information
+描述: 获取指定推特用户的最近N条推文
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/BChVwtIiliTaPWkTiqYupoShsWc
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: twitter:08423016-b00a-465b-9bc4-d863ece4cb1c,twitter, media
+ID: 4800305b-aee7-44b9-bc41-d526b2376f7e.
+
+名称: Cancel Crawl Job
+描述: Cancel an ongoing crawl job.
+文档链接: https://docs.firecrawl.dev/api-reference/endpoint/crawl-cancel
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: crawl:6c544432-3ab7-4158-be66-12a8e1af5eaf,cancel, job, crawl
+ID: 7cf2f0c2-9046-4580-9b3f-e90168558fff.
+
+名称: Twitter: Get Tweet Replies
+描述: 根据推文URL或推文ID，获取指定推文的回复或评论数据（Reply）
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/BChVwtIiliTaPWkTiqYupoShsWc
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: twitter:b5fbe092-b611-4fa9-ba82-d767040e56c6,twitter, replies
+ID: 70677c06-a707-428a-9964-0356bf4d9e83.
+
+名称: Firecrawl Search (Beta)
+描述: The search endpoint combines a search API with the power of Firecrawl to provide a powerful search experience for whatever query. It automatically searches the web for the query and returns the most relevant results from the top pages in markdown format.
+文档链接: https://docs.firecrawl.dev/api-reference/endpoint/search
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: search:04c5575a-9086-41b9-8b91-621c2fa642ab,spider, search
+ID: 5fa2daa3-6422-4172-bb18-2d2dc071e814.
+
+名称: 三消Step1
+描述: Innovation in Interaction with AGIOne.
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:0006f5c9-94c1-4b31-aebc-5c34be45cf70,flow
+ID: f1fb7f7a-cba0-442b-a9e6-435cfc48c884.
+
+名称: 根据推特用户名获取用户信息
+描述: 根据推特用户名获取用户信息
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/BChVwtIiliTaPWkTiqYupoShsWc
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: twitter:39cf029a-16df-4759-86fb-d9b1f24053c1,twitter
+ID: 2c6da8af-802b-4d1c-b18d-02588379627e.
+
+名称: Google Search API
+描述: An API to perform Google searches and retrieve search results.
+文档链接: https://serper.dev/playground
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: search:2f789013-3368-4f3d-9952-34bd20e26107,google, search, api
+ID: fa0a8a9b-f78f-4adf-b08f-a66295e009fe.
+
+名称: 输入user prompt和system prompt去Call LiteLLM的节点获得结果
+描述: 输入user prompt和system prompt去Call LiteLLM的节点获得结果
+文档链接: https://flow.dev.service.hyletic.com/api/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:730e5392-6125-41c4-b1d0-9015bf3557e2,flow
+ID: a68045be-3182-4a38-a21e-c56563d64895.
+
+名称: Arxiv Paper Analysis
+描述: 根据用户输入，读取并分析论文pdf，然后回答问题。
+文档链接: https://flow.service.agione.ai/docs
+项目类型: flow
+相关人员: 
+技术栈: ai system platform
+其他说明: flow:52e3ff55-2012-4a3e-aa69-7e2feb3f71bb,flow, self-hosting
+ID: 8a8e88fa-b1de-41e8-88ee-5373532d2665.
+
+名称: 根据推文URL，获取推文的转发数据（Retweet）
+描述: 根据推文URL，获取推文的转发数据（Retweet）
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/BChVwtIiliTaPWkTiqYupoShsWc
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: twitter:248a79fa-701a-468c-b691-45eb0e8cc934,twitter, retweeters
+ID: 3e89c6f1-3b59-4b00-b196-494aebf87977.
+
+名称: Upload text fine-tuning dataset via URL
+描述: This API enables users to upload a fine-tuning dataset file directly from a specified URL.
+文档链接: None
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: llm fine-tuning, dataset, upload:85a0b85a-3773-44e2-ab25-d91f3d897ddf,llm fine-tuning, dataset, upload
+ID: e207000b-9f10-4e1a-9571-c97f9cb1bbd0.
+
+名称: Upload iamge and video for PoseVideo Generation by MusePose
+描述: This API allows users to upload a list of media files (images and videos) for pose generation.
+文档链接: https://hfbc4zhv5y.larksuite.com/wiki/OQd2wrHaAiyjrUkcVG0uDjVmsMh
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: pose generation, media upload:fefb2b9b-6617-4308-8695-d79e2bd27558,pose generation, media upload
+ID: 5dd4e3f9-1a0a-4078-8561-956c2eb92855.
+
+名称: Get Random Useless Fact
+描述: Retrieve a random useless fact
+文档链接: https://uselessfacts.jsph.pl/
+项目类型: project
+相关人员: 
+技术栈: ai system platform
+其他说明: uselessfacts:e7aeb950-2d04-4eda-b8c6-201b13c35038,random, useless, fact
+ID: ce4357ab-6be4-4b1e-9227-31ca680dcbf7.
+
